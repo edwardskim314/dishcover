@@ -1,0 +1,445 @@
+.sent-missions-updated-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sent-missions-updated-sent-missions-updated {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sent-missions-updated-text {
+  top: 94px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sent-missions-updated-line6 {
+  top: 123.0189208984375px;
+  left: 25px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.sent-missions-updated-mission-type-options-sent {
+  top: 136px;
+  left: 27px;
+  width: 332px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-your-missions-button {
+  top: 6px;
+  left: 0px;
+  width: 115px;
+  height: 19px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sent-missions-updated-sent-missionstab {
+  top: 0px;
+  left: 136px;
+  width: 109px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 122, 0, 1);
+}
+.sent-missions-updated-text04 {
+  top: 6px;
+  left: 33px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sent-missions-updated-text06 {
+  top: 6px;
+  left: 282px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sent-missions-updated-box {
+  top: 179px;
+  left: 25px;
+  width: 367px;
+  height: 603px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  overflow-y: auto;
+}
+
+
+.sent-missions-updated-dishcover-top {
+  top: 24px;
+  left: 22px;
+  width: 347px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-topof-screen {
+  top: 0px;
+  left: 34.96338653564453px;
+  width: 170px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-group20 {
+  top: 0px;
+  left: 0px;
+  width: 170px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-text36 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sent-missions-updated-mdibell {
+  top: 2px;
+  left: 315px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.sent-missions-updated-dishcover-icon {
+  top: 2px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-vector {
+  top: 5px;
+  left: 0px;
+  width: 28px;
+  height: 23px;
+  position: absolute;
+}
+.sent-missions-updated-vector1 {
+  top: 0px;
+  left: 1px;
+  width: 24px;
+  height: 11px;
+  position: absolute;
+}
+.sent-missions-updated-bottom-menu {
+  top: 771px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-bottom-menu1 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-bottonmenu {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.sent-missions-updated-bottom-menu-icons {
+  top: 20.12543487548828px;
+  left: 43px;
+  width: 303px;
+  height: 34.965938568115234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-group {
+  top: 2.12542724609375px;
+  left: 273.11846923828125px;
+  width: 29.88153076171875px;
+  height: 29.7491455078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.sent-missions-updated-vector3 {
+  top: 5.94983434677124px;
+  left: 3.393047571182251px;
+  width: 23px;
+  height: 18px;
+  position: absolute;
+}
+.sent-missions-updated-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+.sent-missions-updated-ggadd {
+  top: 18px;
+  left: 252px;
+  width: 37px;
+  height: 37px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sent-missions-updated-group1 {
+  top: 22px;
+  left: 228px;
+  width: 31.8799991607666px;
+  height: 31.8799991607666px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.sent-missions-updated-vector6 {
+  top: 6.375988960266113px;
+  left: 6.3759765625px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.sent-missions-updated-emojionemonotoneforkandknife {
+  top: 23px;
+  left: 136px;
+  width: 34px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.sent-missions-updated-group2 {
+  top: 0.9995443224906921px;
+  left: 1.063208818435669px;
+  width: 31.87431526184082px;
+  height: 30.00070571899414px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sent-missions-updated-vector7 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.sent-missions-updated-vector8 {
+  top: 0.24852699041366577px;
+  left: 1.3062888383865356px;
+  width: 29px;
+  height: 30px;
+  position: absolute;
+}
+
+
+
+.one-sent-container-container {
+  margin-bottom: 15px;
+}
+
+.one-sent-mission-contents {
+  display: flex;
+  direction: row;
+}
+
+
+.one-sent-mission-pp {
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 59px;
+  border-radius: 50%;
+}
+.one-sent-mission-arrow {
+  top: 20px;
+  left: 282px;
+  width: 24px;
+  height: 24px;
+}
+
+.one-sent-mission-contentbox {
+  height: auto;
+  text-align: left;
+}
+
+.one-sent-mission-contentbox-pp {
+  height: auto;
+  width: 58px;
+  text-align: left;
+}
+
+.one-sent-mission-contentbox-text {
+  height: auto;
+  width: 245px;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 5px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.one-sent-mission-contentbox-arrow {
+  margin-top: 17px;
+  height: auto;
+  width: 24px;
+}
+
+.one-sent-mission-username {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  margin-top: 5px;
+  margin-bottom: 12px;
+}
+
+.one-sent-mission-missionname {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+#blank-feed-text-container {
+  margin-top: 258px;
+  color: #797775;
+  height: auto;
+  width: auto;
+  font-size: 22px;
+  font-style: Bold;
+  align-items: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+#blank-feed-text-contents {
+  width: 256px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}

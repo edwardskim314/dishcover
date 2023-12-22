@@ -1,0 +1,549 @@
+.notifications-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.notifications-notifications {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.notifications-text {
+  top: 101px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-line4 {
+  top: 258.022705078125px;
+  left: 25px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.notifications-line6 {
+  top: 128.998046875px;
+  left: 25px;
+  width: 342px;
+  height: 1px;
+  position: absolute;
+}
+.notifications-line5 {
+  top: 423.998046875px;
+  left: 21px;
+  width: 346px;
+  height: 1px;
+  position: absolute;
+}
+.notifications-text02 {
+  top: 302px;
+  left: 21px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-text04 {
+  top: 465px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-newest-friend-activity-example {
+  top: 339px;
+  left: 21px;
+  width: 339px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-ellipse7 {
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 59px;
+  position: absolute;
+}
+.notifications-text06 {
+  top: 10px;
+  left: 72px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-rectangle18 {
+  top: 0px;
+  left: 278px;
+  width: 61px;
+  height: 59px;
+  position: absolute;
+}
+.notifications-recent-friend-activity-examples {
+  top: 511px;
+  left: 21px;
+  width: 341px;
+  height: 223px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-notification1 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-ellipse8 {
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 59px;
+  position: absolute;
+}
+.notifications-text11 {
+  top: 11px;
+  left: 72px;
+  color: rgba(0, 0, 0, 1);
+  width: 164px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-text13 {
+  top: 25px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-notification3 {
+  top: 164px;
+  left: 0px;
+  width: 340px;
+  height: 59px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-ellipse10 {
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 59px;
+  position: absolute;
+}
+.notifications-text15 {
+  top: 11px;
+  left: 72px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-text20 {
+  top: 26px;
+  left: 321px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-notification2 {
+  top: 78px;
+  left: 0px;
+  width: 341px;
+  height: 67px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-ellipse9 {
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 59px;
+  position: absolute;
+}
+.notifications-text22 {
+  top: 10px;
+  left: 72px;
+  color: rgba(0, 0, 0, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-text27 {
+  top: 24px;
+  left: 321px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-follow-requests-section {
+  top: 166px;
+  left: 21px;
+  width: 319px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-ellipse6 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+}
+.notifications-text29 {
+  top: 25px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-ellipse18 {
+  top: 31px;
+  left: 307px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.notifications-dishcover-top {
+  top: 24px;
+  left: 22px;
+  width: 347px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-topof-screen {
+  top: 0px;
+  left: 34.96338653564453px;
+  width: 170px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-group20 {
+  top: 0px;
+  left: 0px;
+  width: 170px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-text31 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-mdibell {
+  top: 2px;
+  left: 315px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.notifications-dishcover-icon {
+  top: 2px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-vector {
+  top: 5px;
+  left: 0px;
+  width: 28px;
+  height: 23px;
+  position: absolute;
+}
+.notifications-vector1 {
+  top: 0px;
+  left: 1px;
+  width: 24px;
+  height: 11px;
+  position: absolute;
+}
+.notifications-icbaselinegreaterthan {
+  top: 191px;
+  left: 341px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.notifications-bottom-menu {
+  top: 757px;
+  left: 0px;
+  width: 390px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-bottom-menu1 {
+  top: 14px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-bottonmenu {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.notifications-bottom-menu-icons {
+  top: 20.12543487548828px;
+  left: 43px;
+  width: 303px;
+  height: 34.965938568115234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-group {
+  top: 2.12542724609375px;
+  left: 273.11846923828125px;
+  width: 29.88153076171875px;
+  height: 29.7491455078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.notifications-vector3 {
+  top: 5.94983434677124px;
+  left: 3.393047571182251px;
+  width: 23px;
+  height: 18px;
+  position: absolute;
+}
+.notifications-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+.notifications-frame1 {
+  top: 0px;
+  left: 1px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.notifications-ggadd {
+  top: 32px;
+  left: 252px;
+  width: 37px;
+  height: 37px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.notifications-group1 {
+  top: 36px;
+  left: 228px;
+  width: 31.8799991607666px;
+  height: 31.8799991607666px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.notifications-vector6 {
+  top: 6.375988960266113px;
+  left: 6.3759765625px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.notifications-emojionemonotoneforkandknife {
+  top: 37px;
+  left: 136px;
+  width: 34px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.notifications-group2 {
+  top: 0.9995443224906921px;
+  left: 1.063208818435669px;
+  width: 31.87431526184082px;
+  height: 30.00070571899414px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.notifications-vector7 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.notifications-vector8 {
+  top: 0.24852699041366577px;
+  left: 1.3062888383865356px;
+  width: 29px;
+  height: 30px;
+  position: absolute;
+}

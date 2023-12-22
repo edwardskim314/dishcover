@@ -1,0 +1,441 @@
+.pending-mission-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pending-mission-pending-mission {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pending-mission-dishcover-top {
+  top: 24px;
+  left: 22px;
+  width: 347px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-topof-screen {
+  top: 0px;
+  left: 34.96338653564453px;
+  width: 170px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-group20 {
+  top: 0px;
+  left: 0px;
+  width: 170px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-mdibell {
+  top: 2px;
+  left: 315px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.pending-mission-dishcover-icon {
+  top: 2px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-vector {
+  top: 5px;
+  left: 0px;
+  width: 28px;
+  height: 23px;
+  position: absolute;
+}
+.pending-mission-vector1 {
+  top: 0px;
+  left: 1px;
+  width: 24px;
+  height: 11px;
+  position: absolute;
+}
+.pending-mission-mission-details-holder {
+  top: 84px;
+  left: 23px;
+  width: 342px;
+  height: 237px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-rectangle48 {
+  top: 0px;
+  left: 0px;
+  width: 342px;
+  height: 211px;
+  position: absolute;
+  border-radius: 8px;
+}
+.pending-mission-missiontitleholder {
+  top: 154px;
+  left: 24px;
+  width: 294px;
+  height: 83px;
+  position: absolute;
+  border-radius: 8px;
+}
+.pending-mission-text02 {
+  top: 254px;
+  left: 111px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-mission-details-text {
+  top: 439px;
+  left: 22px;
+  width: 341px;
+  height: 275px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-text06 {
+  top: 42px;
+  color: rgba(0, 0, 0, 1);
+  width: 341px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-text07 {
+  font-weight: 700;
+}
+.pending-mission-text08 {
+  font-weight: 400;
+}
+.pending-mission-text14 {
+  font-weight: 700;
+}
+.pending-mission-text15 {
+  font-weight: 400;
+}
+.pending-mission-text21 {
+  font-weight: 700;
+}
+.pending-mission-text22 {
+  font-weight: 400;
+}
+.pending-mission-text28 {
+  font-weight: 700;
+}
+.pending-mission-accept-button {
+  top: 347.8177795410156px;
+  left: 22px;
+  width: 142px;
+  height: 51px;
+  position: absolute;
+  border-radius: 8px;
+}
+.pending-mission-deny-button {
+  top: 347.8177795410156px;
+  left: 222px;
+  width: 142px;
+  height: 51px;
+  position: absolute;
+  border-radius: 8px;
+}
+.pending-mission-text30 {
+  top: 361px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-text32 {
+  top: 361px;
+  left: 273px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-text34 {
+  top: 277px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 207px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-rectangle50 {
+  top: 61px;
+  left: 0px;
+  width: 390px;
+  height: 62px;
+  position: absolute;
+}
+.pending-mission-phxthin {
+  top: 94px;
+  left: 341px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.pending-mission-text36 {
+  top: 94px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pending-mission-bottom-menu {
+  top: 771px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-bottom-menu1 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-bottonmenu {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pending-mission-bottom-menu-icons {
+  top: 20.12543487548828px;
+  left: 43px;
+  width: 303px;
+  height: 34.965938568115234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-group {
+  top: 2.12542724609375px;
+  left: 273.11846923828125px;
+  width: 29.88153076171875px;
+  height: 29.7491455078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.pending-mission-vector3 {
+  top: 5.94983434677124px;
+  left: 3.393047571182251px;
+  width: 23px;
+  height: 18px;
+  position: absolute;
+}
+.pending-mission-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+.pending-mission-ggadd {
+  top: 18px;
+  left: 252px;
+  width: 37px;
+  height: 37px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pending-mission-group1 {
+  top: 22px;
+  left: 228px;
+  width: 31.8799991607666px;
+  height: 31.8799991607666px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.pending-mission-vector6 {
+  top: 6.375988960266113px;
+  left: 6.3759765625px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.pending-mission-emojionemonotoneforkandknife {
+  top: 23px;
+  left: 136px;
+  width: 34px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pending-mission-group2 {
+  top: 0.9995443224906921px;
+  left: 1.063208818435669px;
+  width: 31.87431526184082px;
+  height: 30.00070571899414px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pending-mission-vector7 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.pending-mission-vector8 {
+  top: 0.24852699041366577px;
+  left: 1.3062888383865356px;
+  width: 29px;
+  height: 30px;
+  position: absolute;
+}
+.pending-mission-text38 {
+  top: 442px;
+  left: 334px;
+  color: rgba(255, 122, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
